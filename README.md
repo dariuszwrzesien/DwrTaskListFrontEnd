@@ -1,4 +1,5 @@
-# DwrTaskListFrontEnd
-Simply task list web client application.
+### Install modules:
+`npm install`
 
-nmp start
+### Start app
+`npm start`
